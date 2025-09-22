@@ -1,0 +1,9 @@
+com\example\demo\user\UserRepository.class
+com\example\demo\user\RoleEntity.class
+com\example\demo\web\AdminController.class
+com\example\securingweb\MvcConfig.class
+com\example\demo\config\SecurityConfig.class
+com\example\demo\config\DataInitializer.class
+com\example\demo\SecuringWebApplication.class
+com\example\demo\user\UserEntity.class
+com\example\demo\user\RoleRepository.class
